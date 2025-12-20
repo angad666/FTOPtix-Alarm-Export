@@ -1,0 +1,3 @@
+- Read data from equipment list- DONE
+- Based on the tag type fill in the messages array
+- create a CSV with 1 row per message
