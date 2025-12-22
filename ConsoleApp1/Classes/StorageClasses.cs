@@ -9,13 +9,13 @@ namespace ConsoleApp1.Classes
         public string Path { get; set; } = string.Empty;
         public string Message { get; set; } = string.Empty;
         public string LocalizedMessage { get; set; } = string.Empty;
-        public bool Enabled { get; set; }
-        public bool AutoAcknowledge { get; set; }
-        public bool AutoConfirm { get; set; }
+        public string Enabled { get; set; }
+        public string AutoAcknowledge { get; set; }
+        public string AutoConfirm { get; set; }
         public string InputValue { get; set; } = string.Empty;
-        public int? Severity { get; set; }
-        public int? MaxTimeShelved { get; set; }
-        public int? PresetTimeShelved { get; set; }
+        public string Severity { get; set; }
+        public string MaxTimeShelved { get; set; }
+        public string PresetTimeShelved { get; set; }
         public string NormalStateValue { get; set; } = string.Empty;
     }
 
@@ -36,4 +36,6 @@ namespace ConsoleApp1.Classes
         public string[] Messages { get; set; } = Array.Empty<string>();
         public string[] LocalizedMessages { get; set; } = Array.Empty<string>();
     }
+
+
 }

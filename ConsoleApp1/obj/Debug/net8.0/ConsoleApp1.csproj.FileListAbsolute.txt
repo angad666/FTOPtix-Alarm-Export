@@ -16,3 +16,4 @@ C:\Users\angad\OneDrive\Documents\FTOPtix Alarm Export\ConsoleApp1\bin\Debug\net
 C:\Users\angad\OneDrive\Documents\FTOPtix Alarm Export\ConsoleApp1\bin\Debug\net8.0\ExcelDataReader.DataSet.dll
 C:\Users\angad\OneDrive\Documents\FTOPtix Alarm Export\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
 C:\Users\angad\OneDrive\Documents\FTOPtix Alarm Export\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
+C:\Users\angad\OneDrive\Documents\FTOPtix Alarm Export\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json

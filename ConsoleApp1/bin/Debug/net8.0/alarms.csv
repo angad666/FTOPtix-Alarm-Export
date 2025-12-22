@@ -1,0 +1,368 @@
+﻿Name,Type,Path,Message,LocalizedMessage,Enabled,AutoAcknowledge,AutoConfirm,InputValue,Severity,MaxTimeShelved,PresetTimeShelved,NormalStateValue
+DO0301_ALM1,OffNormalAlarmController,Alarms,[101] Reed Alarm,[101] Reed Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0301_ALM3,OffNormalAlarmController,Alarms,[102] Extend Alarm,[102] Extend Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0301_ALM5,OffNormalAlarmController,Alarms,[103] Retract Alarm,[103] Retract Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0301_ALM7,OffNormalAlarmController,Alarms,[104] Reed A Alarm,[104] Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0301_ALM9,OffNormalAlarmController,Alarms,[105] Reed B Alarm,[105] Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0301_ALM11,OffNormalAlarmController,Alarms,[106] Reed C Alarm,[106] Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0301_ALM13,OffNormalAlarmController,Alarms,[107] Reed D Alarm,[107] Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0301_ALM15,OffNormalAlarmController,Alarms,[108] Extend Reed A Alarm,[108] Extend Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0301_ALM17,OffNormalAlarmController,Alarms,[109] Extend Reed B Alarm,[109] Extend Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0301_ALM19,OffNormalAlarmController,Alarms,[110] Extend Reed C Alarm,[110] Extend Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0301_ALM21,OffNormalAlarmController,Alarms,[111] Extend Reed D Alarm,[111] Extend Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0301_ALM23,OffNormalAlarmController,Alarms,[112] Retract Reed A Alarm,[112] Retract Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0301_ALM25,OffNormalAlarmController,Alarms,[113] Retract Reed B Alarm,[113] Retract Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0301_ALM27,OffNormalAlarmController,Alarms,[114] Retract Reed C Alarm,[114] Retract Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0301_ALM29,OffNormalAlarmController,Alarms,[115] Retract Reed D Alarm,[115] Retract Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0301_MAN1,OffNormalAlarmController,Alarms,[130] Manual Extend Enabled,[130] Manual Extend Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0301_MAN2,OffNormalAlarmController,Alarms,[131] Manual Retract Enabled,[131] Manual Retract Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0301_MAN3,OffNormalAlarmController,Alarms,[132] Manual OFF Enabled,[132] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0301_MAN4,OffNormalAlarmController,Alarms,[133] Alarm Mute Active,[133] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0301_ALM35,OffNormalAlarmController,Alarms,[134] Cylinder Cycling Enabled,[134] Cylinder Cycling Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_ALM1,OffNormalAlarmController,Alarms,[101] Reed Alarm,[101] Reed Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_ALM3,OffNormalAlarmController,Alarms,[102] Extend Alarm,[102] Extend Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_ALM5,OffNormalAlarmController,Alarms,[103] Retract Alarm,[103] Retract Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_ALM7,OffNormalAlarmController,Alarms,[104] Reed A Alarm,[104] Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_ALM9,OffNormalAlarmController,Alarms,[105] Reed B Alarm,[105] Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_ALM11,OffNormalAlarmController,Alarms,[106] Reed C Alarm,[106] Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_ALM13,OffNormalAlarmController,Alarms,[107] Reed D Alarm,[107] Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_ALM15,OffNormalAlarmController,Alarms,[108] Extend Reed A Alarm,[108] Extend Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_ALM17,OffNormalAlarmController,Alarms,[109] Extend Reed B Alarm,[109] Extend Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_ALM19,OffNormalAlarmController,Alarms,[110] Extend Reed C Alarm,[110] Extend Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_ALM21,OffNormalAlarmController,Alarms,[111] Extend Reed D Alarm,[111] Extend Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_ALM23,OffNormalAlarmController,Alarms,[112] Retract Reed A Alarm,[112] Retract Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_ALM25,OffNormalAlarmController,Alarms,[113] Retract Reed B Alarm,[113] Retract Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_ALM27,OffNormalAlarmController,Alarms,[114] Retract Reed C Alarm,[114] Retract Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_ALM29,OffNormalAlarmController,Alarms,[115] Retract Reed D Alarm,[115] Retract Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_MAN1,OffNormalAlarmController,Alarms,[130] Manual Extend Enabled,[130] Manual Extend Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_MAN2,OffNormalAlarmController,Alarms,[131] Manual Retract Enabled,[131] Manual Retract Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_MAN3,OffNormalAlarmController,Alarms,[132] Manual OFF Enabled,[132] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_MAN4,OffNormalAlarmController,Alarms,[133] Alarm Mute Active,[133] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0301_ALM35,OffNormalAlarmController,Alarms,[134] Cylinder Cycling Enabled,[134] Cylinder Cycling Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_ALM1,OffNormalAlarmController,Alarms,[101] Reed Alarm,[101] Reed Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_ALM3,OffNormalAlarmController,Alarms,[102] Extend Alarm,[102] Extend Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_ALM5,OffNormalAlarmController,Alarms,[103] Retract Alarm,[103] Retract Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_ALM7,OffNormalAlarmController,Alarms,[104] Reed A Alarm,[104] Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_ALM9,OffNormalAlarmController,Alarms,[105] Reed B Alarm,[105] Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_ALM11,OffNormalAlarmController,Alarms,[106] Reed C Alarm,[106] Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_ALM13,OffNormalAlarmController,Alarms,[107] Reed D Alarm,[107] Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_ALM15,OffNormalAlarmController,Alarms,[108] Extend Reed A Alarm,[108] Extend Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_ALM17,OffNormalAlarmController,Alarms,[109] Extend Reed B Alarm,[109] Extend Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_ALM19,OffNormalAlarmController,Alarms,[110] Extend Reed C Alarm,[110] Extend Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_ALM21,OffNormalAlarmController,Alarms,[111] Extend Reed D Alarm,[111] Extend Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_ALM23,OffNormalAlarmController,Alarms,[112] Retract Reed A Alarm,[112] Retract Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_ALM25,OffNormalAlarmController,Alarms,[113] Retract Reed B Alarm,[113] Retract Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_ALM27,OffNormalAlarmController,Alarms,[114] Retract Reed C Alarm,[114] Retract Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_ALM29,OffNormalAlarmController,Alarms,[115] Retract Reed D Alarm,[115] Retract Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_MAN1,OffNormalAlarmController,Alarms,[130] Manual Extend Enabled,[130] Manual Extend Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_MAN2,OffNormalAlarmController,Alarms,[131] Manual Retract Enabled,[131] Manual Retract Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_MAN3,OffNormalAlarmController,Alarms,[132] Manual OFF Enabled,[132] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_MAN4,OffNormalAlarmController,Alarms,[133] Alarm Mute Active,[133] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0302_ALM35,OffNormalAlarmController,Alarms,[134] Cylinder Cycling Enabled,[134] Cylinder Cycling Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_ALM1,OffNormalAlarmController,Alarms,[101] Reed Alarm,[101] Reed Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_ALM3,OffNormalAlarmController,Alarms,[102] Extend Alarm,[102] Extend Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_ALM5,OffNormalAlarmController,Alarms,[103] Retract Alarm,[103] Retract Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_ALM7,OffNormalAlarmController,Alarms,[104] Reed A Alarm,[104] Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_ALM9,OffNormalAlarmController,Alarms,[105] Reed B Alarm,[105] Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_ALM11,OffNormalAlarmController,Alarms,[106] Reed C Alarm,[106] Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_ALM13,OffNormalAlarmController,Alarms,[107] Reed D Alarm,[107] Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_ALM15,OffNormalAlarmController,Alarms,[108] Extend Reed A Alarm,[108] Extend Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_ALM17,OffNormalAlarmController,Alarms,[109] Extend Reed B Alarm,[109] Extend Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_ALM19,OffNormalAlarmController,Alarms,[110] Extend Reed C Alarm,[110] Extend Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_ALM21,OffNormalAlarmController,Alarms,[111] Extend Reed D Alarm,[111] Extend Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_ALM23,OffNormalAlarmController,Alarms,[112] Retract Reed A Alarm,[112] Retract Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_ALM25,OffNormalAlarmController,Alarms,[113] Retract Reed B Alarm,[113] Retract Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_ALM27,OffNormalAlarmController,Alarms,[114] Retract Reed C Alarm,[114] Retract Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_ALM29,OffNormalAlarmController,Alarms,[115] Retract Reed D Alarm,[115] Retract Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_MAN1,OffNormalAlarmController,Alarms,[130] Manual Extend Enabled,[130] Manual Extend Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_MAN2,OffNormalAlarmController,Alarms,[131] Manual Retract Enabled,[131] Manual Retract Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_MAN3,OffNormalAlarmController,Alarms,[132] Manual OFF Enabled,[132] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_MAN4,OffNormalAlarmController,Alarms,[133] Alarm Mute Active,[133] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0303_ALM35,OffNormalAlarmController,Alarms,[134] Cylinder Cycling Enabled,[134] Cylinder Cycling Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_ALM1,OffNormalAlarmController,Alarms,[101] Reed Alarm,[101] Reed Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_ALM3,OffNormalAlarmController,Alarms,[102] Extend Alarm,[102] Extend Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_ALM5,OffNormalAlarmController,Alarms,[103] Retract Alarm,[103] Retract Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_ALM7,OffNormalAlarmController,Alarms,[104] Reed A Alarm,[104] Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_ALM9,OffNormalAlarmController,Alarms,[105] Reed B Alarm,[105] Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_ALM11,OffNormalAlarmController,Alarms,[106] Reed C Alarm,[106] Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_ALM13,OffNormalAlarmController,Alarms,[107] Reed D Alarm,[107] Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_ALM15,OffNormalAlarmController,Alarms,[108] Extend Reed A Alarm,[108] Extend Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_ALM17,OffNormalAlarmController,Alarms,[109] Extend Reed B Alarm,[109] Extend Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_ALM19,OffNormalAlarmController,Alarms,[110] Extend Reed C Alarm,[110] Extend Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_ALM21,OffNormalAlarmController,Alarms,[111] Extend Reed D Alarm,[111] Extend Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_ALM23,OffNormalAlarmController,Alarms,[112] Retract Reed A Alarm,[112] Retract Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_ALM25,OffNormalAlarmController,Alarms,[113] Retract Reed B Alarm,[113] Retract Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_ALM27,OffNormalAlarmController,Alarms,[114] Retract Reed C Alarm,[114] Retract Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_ALM29,OffNormalAlarmController,Alarms,[115] Retract Reed D Alarm,[115] Retract Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_MAN1,OffNormalAlarmController,Alarms,[130] Manual Extend Enabled,[130] Manual Extend Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_MAN2,OffNormalAlarmController,Alarms,[131] Manual Retract Enabled,[131] Manual Retract Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_MAN3,OffNormalAlarmController,Alarms,[132] Manual OFF Enabled,[132] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_MAN4,OffNormalAlarmController,Alarms,[133] Alarm Mute Active,[133] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+IL0304_ALM35,OffNormalAlarmController,Alarms,[134] Cylinder Cycling Enabled,[134] Cylinder Cycling Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_ALM1,OffNormalAlarmController,Alarms,[101] Reed Alarm,[101] Reed Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_ALM3,OffNormalAlarmController,Alarms,[102] Extend Alarm,[102] Extend Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_ALM5,OffNormalAlarmController,Alarms,[103] Retract Alarm,[103] Retract Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_ALM7,OffNormalAlarmController,Alarms,[104] Reed A Alarm,[104] Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_ALM9,OffNormalAlarmController,Alarms,[105] Reed B Alarm,[105] Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_ALM11,OffNormalAlarmController,Alarms,[106] Reed C Alarm,[106] Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_ALM13,OffNormalAlarmController,Alarms,[107] Reed D Alarm,[107] Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_ALM15,OffNormalAlarmController,Alarms,[108] Extend Reed A Alarm,[108] Extend Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_ALM17,OffNormalAlarmController,Alarms,[109] Extend Reed B Alarm,[109] Extend Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_ALM19,OffNormalAlarmController,Alarms,[110] Extend Reed C Alarm,[110] Extend Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_ALM21,OffNormalAlarmController,Alarms,[111] Extend Reed D Alarm,[111] Extend Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_ALM23,OffNormalAlarmController,Alarms,[112] Retract Reed A Alarm,[112] Retract Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_ALM25,OffNormalAlarmController,Alarms,[113] Retract Reed B Alarm,[113] Retract Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_ALM27,OffNormalAlarmController,Alarms,[114] Retract Reed C Alarm,[114] Retract Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_ALM29,OffNormalAlarmController,Alarms,[115] Retract Reed D Alarm,[115] Retract Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_MAN1,OffNormalAlarmController,Alarms,[130] Manual Extend Enabled,[130] Manual Extend Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_MAN2,OffNormalAlarmController,Alarms,[131] Manual Retract Enabled,[131] Manual Retract Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_MAN3,OffNormalAlarmController,Alarms,[132] Manual OFF Enabled,[132] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_MAN4,OffNormalAlarmController,Alarms,[133] Alarm Mute Active,[133] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DO0320_ALM35,OffNormalAlarmController,Alarms,[134] Cylinder Cycling Enabled,[134] Cylinder Cycling Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0320_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0320_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0320_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0320_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0320_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0320_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0320_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0320_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0320_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0321_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0321_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0321_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0321_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0321_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0321_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0321_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0321_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0321_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0322_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0322_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0322_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0322_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0322_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0322_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0322_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0322_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0322_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0323_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0323_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0323_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0323_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0323_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0323_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0323_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0323_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+K0323_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0350_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0350_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0350_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0350_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0350_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0350_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0350_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0350_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0350_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_ALM1,OffNormalAlarmController,Alarms,[101] Reed Alarm,[101] Reed Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_ALM3,OffNormalAlarmController,Alarms,[102] Extend Alarm,[102] Extend Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_ALM5,OffNormalAlarmController,Alarms,[103] Retract Alarm,[103] Retract Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_ALM7,OffNormalAlarmController,Alarms,[104] Reed A Alarm,[104] Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_ALM9,OffNormalAlarmController,Alarms,[105] Reed B Alarm,[105] Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_ALM11,OffNormalAlarmController,Alarms,[106] Reed C Alarm,[106] Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_ALM13,OffNormalAlarmController,Alarms,[107] Reed D Alarm,[107] Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_ALM15,OffNormalAlarmController,Alarms,[108] Extend Reed A Alarm,[108] Extend Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_ALM17,OffNormalAlarmController,Alarms,[109] Extend Reed B Alarm,[109] Extend Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_ALM19,OffNormalAlarmController,Alarms,[110] Extend Reed C Alarm,[110] Extend Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_ALM21,OffNormalAlarmController,Alarms,[111] Extend Reed D Alarm,[111] Extend Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_ALM23,OffNormalAlarmController,Alarms,[112] Retract Reed A Alarm,[112] Retract Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_ALM25,OffNormalAlarmController,Alarms,[113] Retract Reed B Alarm,[113] Retract Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_ALM27,OffNormalAlarmController,Alarms,[114] Retract Reed C Alarm,[114] Retract Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_ALM29,OffNormalAlarmController,Alarms,[115] Retract Reed D Alarm,[115] Retract Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_MAN1,OffNormalAlarmController,Alarms,[130] Manual Extend Enabled,[130] Manual Extend Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_MAN2,OffNormalAlarmController,Alarms,[131] Manual Retract Enabled,[131] Manual Retract Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_MAN3,OffNormalAlarmController,Alarms,[132] Manual OFF Enabled,[132] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_MAN4,OffNormalAlarmController,Alarms,[133] Alarm Mute Active,[133] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+DI0351_ALM35,OffNormalAlarmController,Alarms,[134] Cylinder Cycling Enabled,[134] Cylinder Cycling Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_ALM1,OffNormalAlarmController,Alarms,[101] Reed Alarm,[101] Reed Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_ALM3,OffNormalAlarmController,Alarms,[102] Extend Alarm,[102] Extend Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_ALM5,OffNormalAlarmController,Alarms,[103] Retract Alarm,[103] Retract Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_ALM7,OffNormalAlarmController,Alarms,[104] Reed A Alarm,[104] Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_ALM9,OffNormalAlarmController,Alarms,[105] Reed B Alarm,[105] Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_ALM11,OffNormalAlarmController,Alarms,[106] Reed C Alarm,[106] Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_ALM13,OffNormalAlarmController,Alarms,[107] Reed D Alarm,[107] Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_ALM15,OffNormalAlarmController,Alarms,[108] Extend Reed A Alarm,[108] Extend Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_ALM17,OffNormalAlarmController,Alarms,[109] Extend Reed B Alarm,[109] Extend Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_ALM19,OffNormalAlarmController,Alarms,[110] Extend Reed C Alarm,[110] Extend Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_ALM21,OffNormalAlarmController,Alarms,[111] Extend Reed D Alarm,[111] Extend Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_ALM23,OffNormalAlarmController,Alarms,[112] Retract Reed A Alarm,[112] Retract Reed A Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_ALM25,OffNormalAlarmController,Alarms,[113] Retract Reed B Alarm,[113] Retract Reed B Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_ALM27,OffNormalAlarmController,Alarms,[114] Retract Reed C Alarm,[114] Retract Reed C Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_ALM29,OffNormalAlarmController,Alarms,[115] Retract Reed D Alarm,[115] Retract Reed D Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_MAN1,OffNormalAlarmController,Alarms,[130] Manual Extend Enabled,[130] Manual Extend Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_MAN2,OffNormalAlarmController,Alarms,[131] Manual Retract Enabled,[131] Manual Retract Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_MAN3,OffNormalAlarmController,Alarms,[132] Manual OFF Enabled,[132] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_MAN4,OffNormalAlarmController,Alarms,[133] Alarm Mute Active,[133] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+SV0401_ALM35,OffNormalAlarmController,Alarms,[134] Cylinder Cycling Enabled,[134] Cylinder Cycling Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PS0401_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PS0401_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PS0401_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PS0401_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PS0401_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PS0401_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PS0401_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PS0401_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PS0401_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1001_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1001_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1001_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1001_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1001_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1001_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1001_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1001_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1001_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1002_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1002_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1002_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1002_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1002_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1002_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1002_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1002_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1002_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1201_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1201_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1201_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1201_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1201_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1201_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1201_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1201_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+ES1201_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1301_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1301_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1301_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1301_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1301_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1301_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1301_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1301_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1301_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1302_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1302_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1302_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1302_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1302_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1302_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1302_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1302_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1302_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1303_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1303_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1303_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1303_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1303_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1303_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1303_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1303_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1303_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1304_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1304_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1304_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1304_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1304_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1304_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1304_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1304_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+GZ1304_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+MO2301_ALM1,OffNormalAlarmController,Alarms,[601] Forward Feedback OFF Alarm,[601] Forward Feedback OFF Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+MO2301_ALM3,OffNormalAlarmController,Alarms,[602] Reverse Feedback OFF Alarm,[602] Reverse Feedback OFF Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+MO2301_ALM5,OffNormalAlarmController,Alarms,[603] Feedback ON Alarm,[603] Feedback ON Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+MO2301_ALM7,OffNormalAlarmController,Alarms,[604] External Feedback Alarm,[604] External Feedback Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+MO2301_ALM9,OffNormalAlarmController,Alarms,[605] Drive Fault,[605] Drive Fault,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+MO2301_MAN1,OffNormalAlarmController,Alarms,[610] Manual ON Enabled,[610] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+MO2301_MAN2,OffNormalAlarmController,Alarms,[611] Manual Reverse Enabled,[611] Manual Reverse Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+MO2301_MAN3,OffNormalAlarmController,Alarms,[612] Manual OFF Enabled,[612] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+MO2301_MAN4,OffNormalAlarmController,Alarms,[613] Alarm Mute Active,[613] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE1701_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE1701_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE1701_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE1701_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE1701_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE1701_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE1701_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE1701_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE1701_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+MO3301_ALM1,OffNormalAlarmController,Alarms,[601] Forward Feedback OFF Alarm,[601] Forward Feedback OFF Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+MO3301_ALM3,OffNormalAlarmController,Alarms,[602] Reverse Feedback OFF Alarm,[602] Reverse Feedback OFF Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+MO3301_ALM5,OffNormalAlarmController,Alarms,[603] Feedback ON Alarm,[603] Feedback ON Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+MO3301_ALM7,OffNormalAlarmController,Alarms,[604] External Feedback Alarm,[604] External Feedback Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+MO3301_ALM9,OffNormalAlarmController,Alarms,[605] Drive Fault,[605] Drive Fault,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+MO3301_MAN1,OffNormalAlarmController,Alarms,[610] Manual ON Enabled,[610] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+MO3301_MAN2,OffNormalAlarmController,Alarms,[611] Manual Reverse Enabled,[611] Manual Reverse Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+MO3301_MAN3,OffNormalAlarmController,Alarms,[612] Manual OFF Enabled,[612] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+MO3301_MAN4,OffNormalAlarmController,Alarms,[613] Alarm Mute Active,[613] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+RO4101_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+RO4101_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+RO4101_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+RO4101_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+RO4101_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+RO4101_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+RO4101_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+RO4101_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+RO4101_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+XC4101_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+XC4101_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+XC4101_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+XC4101_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+XC4101_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+XC4101_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+XC4101_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+XC4101_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+XC4101_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+CY4101_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+CY4101_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+CY4101_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+CY4101_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+CY4101_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+CY4101_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+CY4101_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+CY4101_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+CY4101_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5101_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5101_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5101_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5101_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5101_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5101_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5101_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5101_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5101_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5102_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5102_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5102_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5102_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5102_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5102_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5102_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5102_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5102_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5103_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5103_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5103_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5103_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5103_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5103_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5103_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5103_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5103_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5104_ALM1,OffNormalAlarmController,Alarms,[401] Alarm,[401] Alarm,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5104_ALM3,OffNormalAlarmController,Alarms,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,[402] Evaluation Error. Contact 1 or 2 failed to switch or switched too late,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5104_ALM5,OffNormalAlarmController,Alarms,[403] Error in the test pulse wiring.,[403] Error in the test pulse wiring.,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5104_ALM7,OffNormalAlarmController,Alarms,[404] Channel 1 Input Test Pulse Error,[404] Channel 1 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5104_ALM9,OffNormalAlarmController,Alarms,[405] Channel 2 Input Test Pulse Error,[405] Channel 2 Input Test Pulse Error,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5104_ALM11,OffNormalAlarmController,Alarms,[406] Triggered while machine Running,[406] Triggered while machine Running,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5104_MAN1,OffNormalAlarmController,Alarms,[410] Manual ON Enabled,[410] Manual ON Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5104_MAN2,OffNormalAlarmController,Alarms,[411] Manual OFF Enabled,[411] Manual OFF Enabled,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
+PE5104_MAN3,OffNormalAlarmController,Alarms,[412] Alarm Mute Active,[412] Alarm Mute Active,TRUE,FALSE,TRUE,,1,0.00:00:00.000,0.00:00:00.000,0
