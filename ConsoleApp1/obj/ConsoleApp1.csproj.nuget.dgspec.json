@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "c:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\angad\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\angad\\AppData\\Roaming\\NuGet\\NuGet.Config",

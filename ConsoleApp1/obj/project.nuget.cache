@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6/AXey6tWWk=",
+  "dgSpecHash": "iz3BMx6IJ3I=",
   "success": true,
-  "projectFilePath": "c:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\angad\\.nuget\\packages\\exceldatareader\\3.7.0\\exceldatareader.3.7.0.nupkg.sha512",
     "C:\\Users\\angad\\.nuget\\packages\\exceldatareader.dataset\\3.7.0\\exceldatareader.dataset.3.7.0.nupkg.sha512"
