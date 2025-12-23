@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "c:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "c:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "c:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "c:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\angad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\obj\\",
+        "outputPath": "c:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\angad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net8.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
           "dependencies": {
             "ExcelDataReader": {
               "target": "Package",
@@ -68,6 +68,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
