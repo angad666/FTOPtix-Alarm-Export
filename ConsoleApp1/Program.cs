@@ -10,6 +10,8 @@ using System.Linq;
 var defaultFilePath = "C:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\16797_Equipment List V1.xlsx";
 Console.Write($"Enter the Excel file path (press Enter to use default: {defaultFilePath}): ");
 var inputPath = Console.ReadLine();
+Console.Write($"Press 1 for Rockwell format, 2 for omron format (default is 2): ");
+var InputFormat = Console.ReadLine();
 var FilePath = string.IsNullOrWhiteSpace(inputPath) ? defaultFilePath : inputPath.Trim();
 if (!File.Exists(FilePath))
 {
@@ -61,6 +63,7 @@ foreach (TagEntry u in tags)
     foreach (string msg in u.Messages)
     {
         var name = "";
+        var inputvalue = "";
         if (msg.Contains("Manual")||msg.Contains("Mute") )
         {
             name = u.Name+"_MAN"+j.ToString();
@@ -71,6 +74,15 @@ foreach (TagEntry u in tags)
             name = u.Name+"_ALM"+i.ToString();
             i++;
         }
+        if (InputFormat == "1")
+        {
+            inputvalue = "INSERT LOGIC_FOR_ROCKWELL_HERE";
+        }
+        else
+        {
+            inputvalue = "INSERT LOGIC_FOR_OMRON_HERE";
+        }
+
         alarms.Add( new AlarmEntry
         {
             Name = name,
@@ -81,7 +93,7 @@ foreach (TagEntry u in tags)
             Enabled = "TRUE",
             AutoAcknowledge = "FALSE",
             AutoConfirm = "TRUE",
-            InputValue = "",
+            InputValue = inputvalue,
             Severity = "1",
             MaxTimeShelved = "0.00:00:00.000",
             PresetTimeShelved = "0.00:00:00.000",
