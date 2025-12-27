@@ -20,8 +20,9 @@ namespace ConsoleApp1
             MessageBox.Show("Starting Main");
 
             var defaultFilePath = "C:\\Users\\angad\\OneDrive\\Documents\\FTOPtix Alarm Export\\16797_Equipment List V1.xlsx";
+            var defaultOutputPath = Path.Combine(Directory.GetCurrentDirectory(), "alarms.csv");
 
-            using var form = new MainForm(defaultFilePath);
+            using var form = new MainForm(defaultFilePath, defaultOutputPath);
             if (form.ShowDialog() != DialogResult.OK)
             {
                 return;
@@ -120,7 +121,7 @@ namespace ConsoleApp1
             }
 
             // Export alarms to CSV
-            var outputPath = Path.Combine(Directory.GetCurrentDirectory(), "alarms.csv");
+            var outputPath = form.SelectedOutputPath;
             CsvExporter.ExportAlarmsToCsv(alarms, outputPath);
 
             MessageBox.Show($"Exported {alarms.Count} alarms to:\n{outputPath}", "Export Complete", MessageBoxButtons.OK, MessageBoxIcon.Information);
